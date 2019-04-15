@@ -1,0 +1,25 @@
+.con{
+	position: relative;
+	width: 100%;
+	top: 100px;
+}
+.middle{
+	position: absolute;
+	width: 500px;
+	height: 300px;
+	background-color: orangered;
+}
+.left{
+	position: absolute;
+	width: 150px;
+	height: 100px;
+	background-color: orangered;
+	margin-left: 100px;
+}
+.right{
+	position: absolute;
+	width: 150px;
+	height: 100px;
+	background-color: orangered;
+	margin-left: 200px;
+}
